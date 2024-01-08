@@ -1,0 +1,627 @@
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180162','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180194','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180151','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180048','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180154','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180072','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180304','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180216','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180175','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180317','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180171','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180206','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180697','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180024','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180541','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180866','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180013','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180355','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180065','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180099','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180036','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180620','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180056','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180632','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180499','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180880','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180325','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180630','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180356','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180067','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180219','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180144','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180136','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180119','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180839','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180111','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180856','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180085','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180461','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180374','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180842','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180905','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180655','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180238','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180156','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180693','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180682','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180581','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180188','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180183','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180005','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180179','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180373','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180788','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180588','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180626','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180648','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180192','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180262','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180413','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s170180','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180815','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180443','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180696','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180531','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180554','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180079','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180695','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180515','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180733','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180838','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180687','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180870','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180170','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180403','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180608','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180460','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180893','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180978','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180375','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180837','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180550','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180248','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180038','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180930','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180868','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180453','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180694','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180553','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180678','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180681','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180728','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180376','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180808','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180153','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180243','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180394','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180685','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180157','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180334','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180765','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180766','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180252','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180741','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180474','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180547','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180545','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180552','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180169','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180646','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180534','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180484','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180675','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180432','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180899','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180328','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180452','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180112','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180594','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180020','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180261','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180254','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180510','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180447','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180666','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180152','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180614','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180107','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180027','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180117','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180617','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180391','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180949','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180253','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180845','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180043','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180408','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180716','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180063','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180882','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180405','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180887','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180841','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180736','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180232','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180802','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180820','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180493','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180231','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180229','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180177','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180323','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180150','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180105','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180492','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180016','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180148','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180389','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180428','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180734','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180471','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180799','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180395','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180618','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180821','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180129','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180501','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180086','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180749','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180125','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180155','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180007','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180319','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180811','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180003','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180913','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180401','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180726','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180371','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180463','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180947','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180935','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180862','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180409','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180892','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180915','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180847','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180303','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180572','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180101','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180587','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180442','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180402','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180750','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180250','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180145','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180282','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180559','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180865','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180311','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180205','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s181016','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180649','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180047','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180002','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180098','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180064','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180580','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180777','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180130','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180878','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180850','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180993','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180873','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180308','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180805','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180159','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180227','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180920','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180577','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180514','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180466','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180480','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180918','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180196','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180287','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180277','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180931','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180665','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180268','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180790','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180273','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180516','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180960','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180668','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180927','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180975','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180890','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180487','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180651','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180138','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180316','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180221','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180187','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180840','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180720','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180073','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180543','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180392','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180410','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180711','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180115','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180858','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180087','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180390','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180981','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180427','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180380','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180863','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180122','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180264','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180110','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180106','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180596','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180332','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180116','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180124','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180198','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180615','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180279','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180251','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180746','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180532','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180113','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180652','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180751','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180404','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180657','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180234','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180313','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180247','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180523','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180455','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180611','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s181018','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180233','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180222','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180283','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180345','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180204','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s181010','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180483','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180462','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180528','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180422','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180943','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180468','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180849','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180891','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180989','CSE',0,0,0,0);
+INSERT INTO cse(id_number,branch,class,row,column,role_id)
+VALUES('s180258','CSE',0,0,0,0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

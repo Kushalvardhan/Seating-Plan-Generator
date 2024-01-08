@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity6">
+<head>
+  <title>Student Page</title>
+  <style>
+        /* CSS Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: lightgreen;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 5px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .button-container button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 3px;
+            background-color: #4CAF50;
+            color: #fff;
+            cursor: pointer;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .button-container button:first-child {
+            margin-right: 10px;
+        }
+
+    .form-group-hall {
+  margin-bottom: 15px;
+}
+
+.form-group-hall label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group-hall input[type="number"] {
+  width: 100%;
+  padding: 5px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s ease-in-out;
+}
+
+.form-group-hall input[type="number"]:focus {
+  border-color: #4CAF50;
+}
+
+.form-group-hall input[type="number"]::placeholder {
+  color: #999;
+}
+
+.form-group-hall input[type="number"]::-webkit-inner-spin-button,
+.form-group-hall input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.form-group-hall input[type="number"]::-webkit-inner-spin-button:after,
+.form-group-hall input[type="number"]::-webkit-outer-spin-button:after {
+  content: '↑';
+  padding-left: 2px;
+}
+
+.form-group-hall input[type="number"]::-webkit-inner-spin-button:hover,
+.form-group-hall input[type="number"]::-webkit-outer-spin-button:hover {
+  cursor: pointer;
+}
+
+    </style>
+</head>
+<body>
+<div class="container">
+  <h1>Student</h1>
+  <form th:action="@{/position}" method="GET">
+    <div class="form-group">
+      <label for="studentId">Student ID:</label>
+      <input type="text" id="studentId" name="studentId" placeholder="Enter Student ID" required>
+    </div>
+    <div class="button-container">
+      <button type="submit">Submit</button>
+    </div>
+  </form>
+</div>
+<br>
+<br>
+<div class="container" sec:authorize="hasRole('ROLE_ADMIN')">
+  <div>
+    <h1>ADMIN</h1>
+    <br>
+
+    <div class="button-container">
+      <a th:href="@{/admin/shuffle}"><button>Shuffle</button></a>
+    </div>
+
+    <form th:action="@{/admin/hallDetails}" method="GET">
+      <div class="form-group-hall">
+        <label for="classNo">Exam Hall :</label>
+        <input type="number" id="classNo" name="classNo" placeholder="Enter Exam Hall Number (1 to 27) " required>
+      </div>
+
+      <div class="button-container">
+        <button type="submit">Submit</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+</body>
+</html>

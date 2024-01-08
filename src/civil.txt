@@ -1,0 +1,252 @@
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180184','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180006','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180008','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180053','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180054','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180055','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180058','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180095','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180104','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180114','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180131','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180133','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180164','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180165','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180181','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180186','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180215','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180266','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180301','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180315','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180330','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180362','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180379','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180433','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180436','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180441','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180448','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180449','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180475','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180488','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180489','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180498','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180562','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180582','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180610','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180637','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180640','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180670','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180671','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180680','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180719','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180737','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180748','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180784','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180789','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180798','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180836','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180871','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180895','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180909','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180928','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180940','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180948','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180952','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180954','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180958','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181004','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181009','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181019','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181020','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180571','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180004','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180009','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180011','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180034','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180044','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180045','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180046','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180052','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180082','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180121','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180161','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180167','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180178','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180197','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180220','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180224','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180280','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180296','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180305','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180310','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180365','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180384','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180418','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180454','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180467','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180494','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180508','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180557','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180589','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180629','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180633','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180638','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180647','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180677','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180690','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180691','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180700','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180701','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180724','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180725','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180739','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180754','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180758','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180759','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180780','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180794','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180797','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180801','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180859','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180881','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180885','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180911','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180957','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180961','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180973','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180984','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180994','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181026','CIVIL',0,0,0,0);
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s181027','CIVIL',0,0,0,0);
+
+
+
+
+
+
+INSERT INTO civil(id_number, branch, class, row, column, role_id) 
+VALUES('s180184','CIVIL',0,0,0,0);
+
+
+
+

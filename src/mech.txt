@@ -1,0 +1,214 @@
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180001','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180021','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180032','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180033','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180041','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180057','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180075','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180077','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180078','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180089','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180103','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180120','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180149','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180193','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180203','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180240','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180242','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180246','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180259','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180290','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180320','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180336','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180341','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180347','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180377','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180385','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180411','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180424','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180426','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180439','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180451','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180472','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180491','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180512','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180513','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180530','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180538','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180567','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180622','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180641','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180650','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180653','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180803','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180810','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180851','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180875','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180910','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180921','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180951','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180991','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s181011','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s181013','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180877','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180915','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180093','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180096','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180123','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180141','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180212','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180237','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180256','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180274','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180275','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180302','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180309','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180337','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180357','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180378','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180382','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180387','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180393','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180396','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180397','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180406','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180420','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180425','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180438','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180502','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180517','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180526','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180536','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180571','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180578','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180585','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180609','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180673','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180705','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180722','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180764','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180796','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180804','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180819','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180844','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180867','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180877','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180884','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180889','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180946','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180971','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180977','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180980','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s180987','MECH',0,0,0,0);
+INSERT INTO mech(id_number, branch, class, row, column, role_id) 
+VALUES('s181006','MECH',0,0,0,0);
+
+
+
+
+
+
+
+

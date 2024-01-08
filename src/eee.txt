@@ -1,0 +1,78 @@
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180239','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180933','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180257','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180352','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180835','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180953','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180381','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180429','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180944','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180813','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180721','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180524','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180415','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180606','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180228','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180042','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180143','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180793','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180976','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180556','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180161','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180276','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180745','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180366','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180419','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180519','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180967','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180776','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180730','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180435','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180762','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180883','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180941','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180140','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180860','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180597','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180986','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180070','EEE',0,0,0,0);
+INSERT INTO eee(id_number, branch, class, row, column, role_id) 
+VALUES('s180832','EEE',0,0,0,0);

@@ -1,0 +1,466 @@
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180012','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180022','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180026','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180040','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180066','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180081','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180108','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180163','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180166','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180172','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180180','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180189','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180210','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180245','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180293','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180298','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180372','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180495','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180506','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180529','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180540','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180560','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180645','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180656','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180679','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180699','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180729','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180743','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180744','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180763','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180773','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180830','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180843','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180879','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180992','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181014','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180092','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180158','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180190','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180209','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180217','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180218','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180338','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180437','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180444','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180564','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180600','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180627','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180628','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180635','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180658','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180688','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180800','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180950','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180972','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180990','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180996','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181003','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180029','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180068','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180074','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180132','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180135','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180174','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180202','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180211','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180230','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180284','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180300','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180314','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180335','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180342','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180446','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180470','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180481','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180500','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180521','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180558','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180561','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180563','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180639','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180644','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180669','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180672','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180674','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180706','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180709','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180717','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180752','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180772','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180854','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180923','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180925','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180014','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180015','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180168','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180201','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180207','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180344','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180361','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180364','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180367','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180457','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180469','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180522','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180525','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180551','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180612','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180613','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180664','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180753','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180864','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180876','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180894','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180904','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180912','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180974','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181012','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180069','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180076','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180088','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180091','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180182','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180184','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180185','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180213','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180225','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180241','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180265','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180281','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180285','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180297','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180322','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180351','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180359','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180412','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180445','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180482','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180575','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180583','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180593','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180623','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180631','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180636','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180654','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180660','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180676','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180692','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180707','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180778','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180787','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180846','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180908','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180924','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180934','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180983','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181005','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181022','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181025','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180039','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180050','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180195','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180199','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180318','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180327','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180386','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180416','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180450','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180456','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180698','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180703','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180710','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180771','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180795','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180829','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181017','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181021','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180017','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180060','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180062','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180080','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180109','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180160','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180176','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180263','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180269','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180278','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180291','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180312','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180331','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180369','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180464','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180486','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180490','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180570','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180616','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180624','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180643','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180684','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180686','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180775','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180852','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180888','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180966','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180025','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180028','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180037','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180071','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180094','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180147','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180208','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180267','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180272','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180289','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180299','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180354','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180458','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180459','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180539','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180544','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180565','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180621','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180625','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180642','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180667','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180689','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180702','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180757','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180834','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180857','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s180997','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181001','ECE',0,0,0,0);
+INSERT INTO ece(id_number, branch, class, row, column, role_id) 
+VALUES('s181024','ECE',0,0,0,0); 

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Show Student Details</title>
+  <style>
+        /* CSS Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: lightgreen;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .student-details {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            padding: 10px;
+            background-color: #f5f5f5;
+        }
+
+        .student-details div {
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th, td {
+        border: 1px solid black;
+        padding: 6px;
+        text-align: left;
+        font-family: "Roboto", sans-serif;
+        font-weight: bold;
+      }
+      th {
+        background-color: #f2f2f2;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    </style>
+</head>
+<body>
+<div class="container">
+  <h1>Your position for this Exam is....</h1>
+
+  <div class="student-details">
+    <h3 th:text="${student.idNumber} + '  ' + ${student.branch}"></h3>
+    <div class="student-class" th:text="${student.toString()}"></div>
+  </div>
+  <br><br>
+  <table>
+    <tr>
+      <th>Room SNO</th>
+      <th>Room Name</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>K1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>K2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>K4</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>K5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>K6</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>K7</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>K8</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>K9</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>K10</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>K11</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>K12</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>L1</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>L2</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>L3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>L4</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>L5</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>L6</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>L11</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>L12</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>MU1</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>MU2</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>MU3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>MU4</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>MU5</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>MU6</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>O7</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>O8</td>
+    </tr>
+  </table>
+
+
+</div>
+</body>
+</html>
